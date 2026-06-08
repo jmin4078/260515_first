@@ -1,0 +1,8 @@
+opencode.json
+node_modules/
+dist/
+.env
+.env.*
+.vscode/
+test_tour.js
+test_gemini.js
